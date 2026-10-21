@@ -1,5 +1,7 @@
 # Fosko Design System
 
+> **Scope:** website-specific implementation guidelines. Company-wide brand definitions and officially approved logo master files are governed by the private [fosko-ci](https://github.com/fosko-llc/fosko-ci) repository. Until an approved CI asset release exists, keep the website's existing logo asset unchanged.
+
 ## Brand character
 Fosko should feel:
 - Minimal
@@ -19,6 +21,7 @@ Japanese: `可能性を、かたちにする。`
 - Navy: `#172a3a`
 - Lagoon: `#91aabe`
 - Fog: `#f4f3ef`
+- Sand (corporate accent): `#c9c0b2`
 - Paper: `#fbfaf7`
 - Ink: `#141719`
 - Muted text: `#667078`
